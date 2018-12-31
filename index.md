@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/bhagyashribadgujar3/bhagyashribadgujar3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate student pursuing my Maser's Degree in Information Systems from Santa Clara University. I love experimenting with new technologies and building something of value from them. I always look out for scope of improvement and faults in the some of the techs available by performing analysis. I am a data enthusus
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
